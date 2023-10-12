@@ -1,0 +1,67 @@
+Working Group: 
+	Engineering
+	Product Management
+	DevOps
+	Support
+	Quality Assurance
+	CloudOps
+	Others
+
+Work Experience: 
+	0 to 3
+	4 to 7
+	10+
+	8 to 10
+
+Role: 
+	Entry Level Professional
+	Lead/Manager
+	Senior Resource
+	Mid-Level Management
+	Executive Level Management
+	CXO Group
+
+Please share your observations in regards to your Day-to-Day tasks at your Organization: 
+	0 - Not Applicable 
+	1 - Strongly Disagree
+	2 - Disagree
+	3 - Neutral
+	4 - Agree
+	5 - Strongly Agree
+
+Experienced any of the SDW in WFH (October-November 2020) compared to your traditional office situation prior to the pandemic?
+	0 - Not Applicable 
+	1 - Rare
+	2 - Sometimes
+	3 - Frequently
+	4 - Always
+
+Does the below Software Development Waste generation increased post lockdown (in WFH Mode)?
+	0 - Not Applicable
+	1 - No
+	2 - Barely
+	3 - Significantly
+
+In what ways the software development waste affecting your project progress?
+	1 - Strongly disagree 
+	2 - Disagree 
+	3 - Neutral 
+	4 - Agree 
+	5 - Strongly Agree
+
+Have you observed a change in a Software Development waste generation when your company/workplace migrated from a traditional work environment to a forced work-from-home mode?
+	0 - Can't Say as I am already working Remote
+	1 - No, I don't see any difference
+	2 - Not Sure. Unable to determine the impact
+	3 - Yes, there is a difference
+
+Does your Organization has a way to track and monitor your Software Development Waste? 
+	1 - No
+	2 - Not Sure
+	3 - Yes
+
+If you are an existing remote working employee, Do you manage your Software Development waste? (Not Appl, No, Yes, Sometimes) [=if(exist<=1.6667, "No", if(exist<=2.3334, "sometimes", "Yes"))]
+	0 - Not Appl / Not sure
+	1 - No
+	2 - Sometimes/Barely
+	3 - Yes

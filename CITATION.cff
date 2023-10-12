@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Varanasi"
+    given-names: "DSM"
+title: "Software Development Waste amidst COVID-19 Pandemic: An Industry Case Study"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567
+date-released: "2023-10-13"
